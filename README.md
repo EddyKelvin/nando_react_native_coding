@@ -9,7 +9,7 @@ yarn install
 yarn start
 ```
 
-## Installation
+## Unit Test
 
 ```
 yarn test
